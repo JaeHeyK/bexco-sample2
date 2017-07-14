@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="arr">
+        <item>(당신은 전생에)불을 잘 뿜게 생겼습니다</item>
+        <item>황제의 애완견이었습니다</item>
+        <item>신선한 망고스틴이었습니다</item>
+        <item>별의 일부였습니다</item>
+        <item>영광 굴비였습니다</item>
+        <item>지구에 없었습니다</item>
+        <item>이상해씨였습니다</item>
+        <item>감자튀김이었을 겁니다</item>
+        <item>개냥이였습니다</item>
+        <item>할라피뇨였습니다</item>
+        <item>제주산 감귤이었습니다</item>
+        <item>갸라도스였습니다</item>
+        <item>잉어킹이었습니다</item>
+        <item>귀여운 파이리였습니다</item>
+        <item>공룡의 피를 빤 모기였습니다</item>
+        <item>1등급 한우였습니다</item>
+        <item>옥수수수염이었습니다</item>
+        <item>팅커벨이었습니다</item>
+        <item>춤으로 세상을 지배했습니다</item>
+        <item>코끼리땃쥐였습니다</item>
+        <item>뱁새였습니다</item>
+        <item>상당히 매콤했습니다</item>
+        <item>파파스머프였습니다</item>
+        <item>카카오 열매였습니다</item>
+        <item>윌리암슨수액빨이딱따구리였습니다</item>
+        <item>이요르였습니다</item>
+        <item>아메리카뒷부리장다리물떼새였습니다</item>
+        <item>뭣도 아니었습니다. 뭘 바랬습니까?</item>
+        <item>피카츄였습니다</item>
+        <item>뭐였던 지금이 제일 아름답습니다</item>
+    </string-array>
+
+</resources>
+
+
+
+
+
+
+
+
